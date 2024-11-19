@@ -5,9 +5,7 @@ Collection of projects get done over the years of graduation .
  
 
 
-## Author
 
-- [@dash-09](https://www.github.com/dash-09)
 
 
 ## About
